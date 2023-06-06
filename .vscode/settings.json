@@ -1,0 +1,19 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33060,
+      "driver": "MySQL",
+      "name": "kev lol",
+      "database": "student",
+      "username": "kev",
+      "password": "kim_bro123",
+      "connectionTimeout": 15
+    }
+  ],
+  "python.analysis.typeCheckingMode": "basic"
+}
